@@ -34,4 +34,6 @@ in grub edit line for example
 ```
 and press ctrl + x
 
+В видеоряде я запускаю после свое графическое DE  -  <img src="https://github.com/oditynet/miayDE" title="miayDE"/>
+
 
