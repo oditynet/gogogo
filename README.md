@@ -19,6 +19,7 @@ sudo cp gogogo /sbin
 sudo mkdir -p /etc/gogogo/rc1/ /etc/gogogo/rc2/ /etc/gogogo/rc3/
 sudo echo "2" | sudo tee /etc/gogogo/initlevel
 sudo cp rc.devices  /etc/gogogo/
+sudo chmod a+x /etc/gogogo/rc.devices
 ```
 
 Конфигурационные файлы (на примере miayDE)
