@@ -8,7 +8,7 @@
 <img alt="GitHub commit activity" src="https://img.shields.io/github/commit-activity/m/oditynet/gogogo"></img>
 <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/oditynet/gogogo"></img>
 
-Система инициализация системы GOGOGO поможет вам быстро запустить службы после загрузки ядра, смонтировать ваши ФС и подключить устройства. На видео пока я забыл подгрузить USB устройства и в моей DE miayDE не работает мышка, но это не проблема.
+Bнициализация системы GOGOGO поможет вам быстро запустить службы после загрузки ядра, смонтировать ваши ФС иинициализировать ваши устройства, Udev, DBus. На видео пока я забыл подгрузить USB устройства и в моей DE miayDE не работает мышка, но это не проблема.
 
 <img src="https://github.com/oditynet/gogogo/blob/main/image.gif" title="example" width="800" />
 
